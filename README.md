@@ -1,5 +1,7 @@
 # Api Use is - News Api
 
+![image](https://github.com/debasish26/Holy-News---A-news-app/assets/73976256/d57dd756-0a92-4a25-8b77-c144cd22d5ef)
+![image](https://github.com/debasish26/Holy-News---A-news-app/assets/73976256/3790a2e5-c912-4378-a2da-c9431276627d)
 
 
 # Getting Started with Create React App
